@@ -2,5 +2,8 @@
 New line of code
 Adding new line from remote
 Adding local change
-Merge change from remote
+<<<<<<< HEAD
 merge from local repos
+=======
+Merge change from remote
+>>>>>>> origin/main
